@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: linear-gradient( rgb(2, 3, 20), rgba(0, 0, 0, 0.8));
+   background-color: #0b1215;
     color: white;
 }
 header{
@@ -259,8 +259,9 @@ nav a:hover{
   
  body{
    overflow-x: hidden; 
-   background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 31%, rgba(3,3,15,1) 75%, rgba(22,59,66,1) 100%);
+   background-color: #0b1215;
+   width: 100%;
+
  }
   .home{
    
